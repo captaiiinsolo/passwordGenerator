@@ -8,4 +8,6 @@
 
 ## Description
 
-[Visit the Deployed site here!](https://captaiiinsolo.github.io/passwordGenerator)
+[Visit the Deployed site here!](https://captaiiinsolo.github.io/passwordGenerator/)
+
+In this project, I was asked to create a 
