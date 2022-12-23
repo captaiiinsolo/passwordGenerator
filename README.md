@@ -15,3 +15,14 @@ In this project, I was asked to create a password generator that would create a 
 ## Usage
 
 Upon reaching the site users must select the generate password button in order to activate the generator. From there they will be asked a series of criteria questions regarding the password they would like to generate. Once all questions have been answered the user will either have a newly generated password in the text box or they will be prompted to try again if the criteria was not met.
+
+## Author Info
+
+This application was created by Solomon D. Santos using the starter code given by UC Berkeley Extension Coding Bootcamp. 
+
+[GitHub](https://github.com/captaiiinsolo)
+[LinkedIn](https://www.linkedin.com/in/solomon-santos)
+
+## License
+
+Please see [GitHub Repo](https://github.com/captaiiinsolo/passwordGenerator/) for license.
