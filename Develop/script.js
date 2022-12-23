@@ -25,6 +25,8 @@ generateBtn.addEventListener("click", writePassword);
     // Prompt values are returned as strings so we need to use parseInt to convert to intergers in order to be compared for correct count
     var passwordLength = parseInt(passLength);
 
+
+    // user choices for creating new password
     var usersNewPass = "";
     var lowercase = "abcdefghijklmnopqrstuvwxyz";
     var uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -64,6 +66,7 @@ generateBtn.addEventListener("click", writePassword);
     for (var i = 0; i < passwordLength; i++) {
       password += usersNewPass.charAt(Math.floor(Math.random() * usersNewPass.length));
     }
+    // logs newly generated password to the console and allows writePassword() function to take place
     console.log(password)
     return password;
   }
